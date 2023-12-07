@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Merida",
+        "sobrenome": "Disney",
+        "pais": "Brasil",
+        "endereco": "Rua suco limonada",
+        "complemento": "0",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "24584222",
+        "telefone": "999999999",
+        "email": "merida@ebac.com"
+    },
+    {
+        "nome": "Catarina",
+        "sobrenome": "Dog",
+        "pais": "Brasil",
+        "endereco": "Rua suco limonada",
+        "complemento": "0",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "24584222",
+        "telefone": "999999999",
+        "email": "catarina@ebac.com"
+    }
+]
